@@ -1,0 +1,30 @@
+레이아웃
+
+https://www.cocobongo.tv/#
+https://jthemes.net/themes/html/bolby/demo/index.html
+
+색상 조합
+#AAABD3(연한 보라)
+#CBA6C3(연한 자주)
+#F8FAFF (하얀색)
+#353866 (배경화면 색)
+
+1. 첫 화면 
+
+안녕하세요 글씨 CSS
+
+https://www.sliderrevolution.com/resources/css-text-animation/
+(CSS Terminal Text Effect)
+
+
+2. 자기 소개 (취미 활동 자격증 수료 자격증)
+
+
+3. 스킬 역량 (습득 퍼센트)
+3 - 1 지금 까지 배운것 모두 올리기
+
+4. 자기 프로젝트 탭 버튼으로 누르면 나오게 하기 
+4 - 1 (컴퓨터 화면이랑 모바일 화면 보이게 하고 문서 작업 한것도 올리기)
+
+
+5. 마지막 인사 및 끝 
